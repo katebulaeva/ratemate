@@ -1,0 +1,29 @@
+torch
+seaborn
+pathlib
+colorama
+matplotlib
+transformers
+apify_client
+nltk
+# google-cloud-storage
+# google-cloud-bigquery
+
+numpy
+pandas
+mlflow
+scikit-learn
+
+python-dotenv
+
+fastapi
+uvicorn
+
+# pytz
+# httpx
+# pytest-asyncio
+# db-dtypes
+# pyarrow
+# prefect==2.8.1
+# psycopg2-binary
+tensorflow==2.15.0

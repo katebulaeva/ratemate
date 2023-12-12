@@ -1,0 +1,22 @@
+raw_data/
+raw_data_slim/
+.DS_Store
+
+# Jupiter Notebook #
+notebooks/
+ml_logic/__pycache__/
+ml_logic/__pycache__
+.pytest_cache
+*.ipynb
+*/__pycache__/
+__pycache__/
+api/__pycache__/
+*.csv
+*.zip
+
+my_NLP_CNN_*
+my_NLP_CNN_MLFLOW_model_0/
+my_NLP_CNN_MLFLOW_model_1/
+my_NLP_CNN_model_0/
+my_NLP_CNN_model_1/
+my_NLP_CNN_model_2/
